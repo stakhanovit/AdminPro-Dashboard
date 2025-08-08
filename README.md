@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # AdminPro Dashboard
 
@@ -270,3 +271,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <p>Made with care for the developer community</p>
   <p>Star this repo if you find it helpful!</p>
 </div>
+=======
+# AdminPro-Dashboard
+>>>>>>> 7dbb2ef15e740f7180b9c384827df49279c20363
